@@ -2,6 +2,14 @@
 
 Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do curso de Sistemas para Internet da Fatec Rubens Lara da Baixada Santista.
 
+  - Criando App 
+  
+  `npx react-native init nomeApp`
+  
+  `npx react-native run-android`
+  
+  - Github
+
 `git clone url_do_repositorio.git`
 
 `git add .`
