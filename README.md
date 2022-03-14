@@ -8,6 +8,15 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
   
   `npx react-native run-android`
   
+  - Epo
+
+  `npm install -g expo-cli`
+  
+  `blank`
+  
+  `yarn start`
+  
+  
   - Github
 
 `git clone url_do_repositorio.git`
