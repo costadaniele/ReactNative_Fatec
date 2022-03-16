@@ -31,7 +31,15 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 <img src="/images/appPerfil.png" width="200px">
 
+### App 02
+
+<img src="/images/contador.png" width="200px">
+
+### App 03
+
+<img src="/images/multiplicador2n.png" width="200px">
+
 ### App's Teste
 
-<img src="/images/appHello.png" width="200px"> <img src="/images/appExpo.jpeg" width="200px"> <img src="/images/appConceitos.png" width="200px">
+<img src="/images/appHello.png" width="200px"> <img src="/images/appExpo.jpeg" width="180px"> <img src="/images/appConceitos.png" width="200px">
 
