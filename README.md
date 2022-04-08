@@ -56,7 +56,11 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 <img src="/images/appAnuncio.png" width="210px">
 
+### App 09
+
+<img src="/images/appVagas.png" width="210px">
+
 ### App's Teste
 
-<img src="/images/appHello.png" width="200px"> <img src="/images/appExpo.jpeg" width="180px"> <img src="/images/appConceitos.png" width="200px"> <img src="/images/ex_aula05.png" width="200px">
+<img src="/images/appHello.png" width="200px"> <img src="/images/appExpo.jpeg" width="180px"> <img src="/images/appConceitos.png" width="200px"> <img src="/images/ex_aula05.png" width="200px"> <img src="/images/aula07_scrollView.png" width="200px"> <img src="/images/aula07_flatList.png" width="200px">
 
