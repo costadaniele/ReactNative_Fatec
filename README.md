@@ -8,7 +8,7 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
   
   `npx react-native run-android`
   
-  - Epo
+  - Expo
 
   `npm install -g expo-cli`
   
