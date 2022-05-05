@@ -27,6 +27,12 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 `git push`
 
+
+- Vector-Icons
+
+`yarn add react-native-vector-icons` 
+
+
 ### App 01 
 
 <img src="/images/appPerfil.png" width="200px">
