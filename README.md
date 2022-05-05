@@ -32,6 +32,17 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 `yarn add react-native-vector-icons` 
 
+- Stack Navigator
+
+`yarn add @react-navigation/native`
+
+`yarn add @react-navigation/stack`
+
+`yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context` 
+
+`yarn add @react-navigation/stack@next @react-native-masked-view/masked-view`
+
+
 
 ### App 01 
 
