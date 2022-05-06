@@ -46,6 +46,8 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 `yarn add @react-navigation/bottom-tabs`
 
+`npx react-native link react-native-vector-icons`
+
 
 
 ### App 01 
