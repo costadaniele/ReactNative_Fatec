@@ -42,6 +42,10 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 `yarn add @react-navigation/stack@next @react-native-masked-view/masked-view`
 
+- Tab Navigator
+
+`yarn add @react-navigation/bottom-tabs`
+
 
 
 ### App 01 
