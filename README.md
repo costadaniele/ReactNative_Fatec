@@ -48,6 +48,10 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 `npx react-native link react-native-vector-icons`
 
+- Axios
+
+`install axios`
+
 
 
 ### App 01 
