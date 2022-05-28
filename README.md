@@ -74,7 +74,6 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 <img src="/images/nAleatorio.png" width="200px">
 
-
 ### App 08
 
 <img src="/images/appAnuncio.png">
@@ -83,9 +82,17 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 <img src="/images/appVagas.png" width="210px">
 
+### App 10
+
+<img src="/images/appConversorMoedas.png" width="210px">
+
 ### App 13
 
 <img src="/images/appNavMeuPerfil.png" width="200px">
+
+### App 17
+
+<img src="/images/appConsultaCep.png" width="200px">
 
 ### App's Teste
 
