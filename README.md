@@ -48,6 +48,10 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 `npx react-native link react-native-vector-icons`
 
+- Axios
+
+`install axios`
+
 
 
 ### App 01 
@@ -93,6 +97,10 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 ### App 17
 
 <img src="/images/appConsultaCep.png" width="200px">
+
+### App 20
+
+<img src="/images/appFilmes.png" width="200px">
 
 ### App's Teste
 
