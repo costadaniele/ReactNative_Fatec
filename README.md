@@ -84,7 +84,7 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 ### App 08
 
-<img src="/images/appAnuncio.png">
+<img src="/images/appAnuncio.png" width="200px">
 
 ### App 09
 
