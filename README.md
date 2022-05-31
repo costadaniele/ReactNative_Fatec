@@ -48,6 +48,10 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 `npx react-native link react-native-vector-icons`
 
+- Drawer Navigator
+
+`yarn add @react-navigation/drawer`
+
 - Axios
 
 `install axios`
@@ -78,9 +82,13 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 <img src="/images/nAleatorio.png" width="200px">
 
+### App 07
+
+<img src="/images/appFormContaBanc.png" width="200px">
+
 ### App 08
 
-<img src="/images/appAnuncio.png">
+<img src="/images/appAnuncio.png" width="200px">
 
 ### App 09
 
