@@ -1,24 +1,47 @@
-import 'react-native-gesture-handler';
-import React from 'react';
-import { NavigationContainer } from '@react-navigation/native';
-import { createDrawerNavigator } from '@react-navigation/drawer';
- 
-const Drawer = createDrawerNavigator();
- 
-import Pessoal from './src/pages/Pessoal';
-import Experiencia from './src/pages/Experiencia';
-import Formacao from './src/pages/Formacao';
+import 'react-native-gesture-handler'
+import React from 'react'
+import { NavigationContainer } from '@react-navigation/native'
+import { createDrawerNavigator } from '@react-navigation/drawer'
+import Pessoal from './src/components/Pessoal/index'
+import Formacao from './src/components/Formacao/index'
+import Experiencia from './src/components/Experiencia/index'
 
-import CustomDrawer from './src/components/CustomDrawer';
+const Drawer = createDrawerNavigator()
 
-export default function App(){
-  return(
-  <NavigationContainer>
-    <Drawer.Navigator drawerContent={CustomDrawer}>
-      <Drawer.Screen name="Pessoal" component={Pessoal} />
-      <Drawer.Screen name="Formação" component={Formacao} />
-      <Drawer.Screen name="Experiência" component={Experiencia} />
-    </Drawer.Navigator>
-  </NavigationContainer>
-  );
+const infoHeaderTelas = (
+  a = null ,
+  b = null ,
+  c = null ,
+  d = false
+) => {
+  return {
+    title: `${a}`,
+    headerStyle: { backgroundColor: `${b}` },
+    headerTintColor: `${c}`,
+    headerShown: d
+  }
+}
+
+export default App = () => {
+  return (
+    <NavigationContainer>
+      <Drawer.Navigator>
+        <Drawer.Screen 
+          name="Pessoal" 
+          component={ Pessoal }
+          options={ infoHeaderTelas('Perfil') } 
+        />
+        <Drawer.Screen 
+          name="Formação" 
+          component={ Formacao }
+          options={ infoHeaderTelas('Formação') }
+        />
+        <Drawer.Screen 
+          name="Experiência" 
+          component={ Experiencia }
+          options={ infoHeaderTelas('Experiência') }
+        />
+      </Drawer.Navigator>
+    </NavigationContainer>
+  )
 }
