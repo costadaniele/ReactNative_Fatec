@@ -102,6 +102,11 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 <img src="/images/appNavMeuPerfil.png" width="200px">
 
+### App 14
+
+<img src="/images/frases.png" width="200px">
+
+
 ### App 17
 
 <img src="/images/appConsultaCep.png" width="200px">
@@ -124,5 +129,5 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 ### App's Teste
 
-<img src="/images/appHello.png" width="200px"> <img src="/images/appExpo.jpeg" width="180px"> <img src="/images/appConceitos.png" width="200px"> <img src="/images/ex_aula05.png" width="200px"> <img src="/images/aula07_scrollView.png" width="200px"> <img src="/images/appNav.png" width="200px"> <img src="/images/appNavTab.png" width="200px"> <img src="/images/appApi.png" width="200px">
+<img src="/images/appHello.png" width="200px"> <img src="/images/appExpo.jpeg" width="180px"> <img src="/images/appConceitos.png" width="200px"> <img src="/images/ex_aula05.png" width="200px"> <img src="/images/aula07_scrollView.png" width="200px"> <img src="/images/appNav.png" width="200px"> <img src="/images/appNavTab.png" width="200px"> <img src="/images/appApi.png" width="200px"> <img src="/images/aula09.png" width="200px">
 
