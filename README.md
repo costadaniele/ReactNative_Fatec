@@ -52,6 +52,10 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 `yarn add @react-navigation/drawer`
 
+- Slider 
+
+`yarn add react-native-slider` 
+
 - Axios
 
 `install axios`
