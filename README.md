@@ -126,6 +126,10 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 <img src="/images/tarefaSQLite.png" width="200px">
 
+### App 16
+
+<img src="/images/listaCompras.png" width="200px">
+
 ### App 17
 
 <img src="/images/appConsultaCep.png" width="200px">
