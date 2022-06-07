@@ -62,7 +62,11 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 
 - Axios
 
-`install axios`
+`npm install axios`
+
+- SQLite
+
+`npm install --save react-native-sqlite-storage`
 
 
 
@@ -125,6 +129,10 @@ Apps criados para a matéria de Desenvolvimento para Dispositivos Moveis II, do 
 ### App 15
 
 <img src="/images/tarefaSQLite.png" width="200px">
+
+### App 16
+
+<img src="/images/listaCompras.png" width="200px">
 
 ### App 17
 
